@@ -1,1 +1,1 @@
-# Java-wozza
+Dummy template
